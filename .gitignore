@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+
+# External source checkouts are kept local unless intentionally vendored.
+third_party/
+
+# Large model/runtime/build artifacts are not source.
+artifacts/
+*.gguf
+*.bin
+*.npz
+*.onnx
+*.har
+*.hef
+*.o
